@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 300px;
+}
+
+button {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 10px;
+}
+
+#backup {
+    margin-bottom: 7px;
+}
+
+#fileinput {
+    display: none;
+}

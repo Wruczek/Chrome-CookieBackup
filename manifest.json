@@ -1,0 +1,15 @@
+{
+    "name": "CookieBackup",
+    "version": "2.0",
+    "manifest_version": 2,
+    "description": "Backup and restore cookies with ease!",
+    "homepage_url": "https://wruczek.tech",
+    "permissions": [
+        "cookies",
+        "*://*/"
+    ],
+    "browser_action": {
+        "default_title": "CookieBackup",
+        "default_popup": "popup.html"
+    }
+}
